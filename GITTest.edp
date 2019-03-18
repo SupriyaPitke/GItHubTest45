@@ -4,9 +4,9 @@
   <_Project>
     <ProjectName val="GITTest"/>
     <VCProjectID val="0"/>
-    <VCActive val="N"/>
+    <VCActive val="Y"/>
     <WorkOffline val="N"/>
-    <VCUseGitPlugin val="N"/>
+    <VCUseGitPlugin val="Y"/>
     <SourceDirectory val="Source"/>
     <ExportsDirectory val="Exports"/>
     <GUID val="{DCCF7D24-18B2-4961-BCAA-91380766ED3B}"/>
